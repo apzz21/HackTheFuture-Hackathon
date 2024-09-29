@@ -1,0 +1,124 @@
+{
+  "ycourses": [
+    {
+      "title": "Learn JavaScript - Full Course for Beginners",
+      "channel": "freeCodeCamp",
+      "description": "A full course for learning JavaScript from scratch, covering all the essential concepts like variables, functions, loops, and DOM manipulation.",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Amazing content! It covers everything a beginner needs to know."
+        },
+        {
+          "rating": 4,
+          "comment": "Well-explained course, but could have covered more on advanced topics."
+        }
+      ]
+    },
+    {
+      "title": "Python Full Course for Beginners",
+      "channel": "Programming with Mosh",
+      "description": "A comprehensive Python course for beginners, covering the basics like syntax, loops, functions, and more advanced topics like object-oriented programming.",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great course! The pacing and explanations were perfect."
+        },
+        {
+          "rating": 4,
+          "comment": "Very informative, but the advanced sections could use more examples."
+        }
+      ]
+    },
+    {
+      "title": "React JS Crash Course",
+      "channel": "Traversy Media",
+      "description": "This crash course gives you a solid introduction to React, including component creation, state management, and using hooks.",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Perfect crash course for anyone wanting to dive into React. Everything is explained clearly!"
+        },
+        {
+          "rating": 4,
+          "comment": "Good intro to React, but could be a bit fast-paced for absolute beginners."
+        }
+      ]
+    },
+    {
+      "title": "Learn Docker in 7 Easy Steps",
+      "channel": "TechWorld with Nana",
+      "description": "A hands-on Docker tutorial that walks you through the basics of containers, Docker commands, and creating Docker images.",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Excellent Docker tutorial! Very practical and to the point."
+        },
+        {
+          "rating": 4,
+          "comment": "Good for beginners, but needs more real-world examples."
+        }
+      ]
+    },
+    {
+      "title": "Kubernetes Tutorial for Beginners",
+      "channel": "TechWorld with Nana",
+      "description": "An in-depth tutorial on Kubernetes, covering concepts like pods, services, deployments, and setting up clusters.",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Amazing content! It's one of the best tutorials I've seen on Kubernetes."
+        },
+        {
+          "rating": 4,
+          "comment": "Very helpful, but some sections could be explained more thoroughly."
+        }
+      ]
+    },
+    {
+      "title": "Flutter Tutorial for Beginners",
+      "channel": "Academind",
+      "description": "A beginner's guide to Flutter, covering the basics of building cross-platform mobile apps using Dart.",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Great introduction to Flutter! The instructor makes it easy to follow."
+        },
+        {
+          "rating": 4,
+          "comment": "Very informative, but the course could have used more advanced topics like state management."
+        }
+      ]
+    },
+    {
+      "title": "Node.js Tutorial for Beginners",
+      "channel": "The Net Ninja",
+      "description": "A comprehensive Node.js course that covers everything from setting up a server, working with files, and interacting with databases.",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "One of the best Node.js tutorials out there! Very practical and easy to follow."
+        },
+        {
+          "rating": 4,
+          "comment": "Good for beginners, but lacks coverage on some advanced features."
+        }
+      ]
+    },
+    {
+      "title": "Complete Git and GitHub Tutorial",
+      "channel": "freeCodeCamp",
+      "description": "This course covers Git and GitHub, teaching you how to use version control and collaborate with others on projects.",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Very detailed and easy to follow. It helped me understand version control really well!"
+        },
+        {
+          "rating": 4,
+          "comment": "Good course, but could use more real-world collaboration examples."
+        }
+      ]
+    }
+  ]
+}

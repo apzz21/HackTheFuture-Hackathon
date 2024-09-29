@@ -1,0 +1,51 @@
+[
+  {
+      "courseName": "Coursera",
+      "courseDetail": "Data Science",
+      "rating": 4,
+      "imagePath": "assets/images/coursera.jpg",
+      "showAddReviewButton": true
+  },
+  {
+      "courseName": "NPTEL",
+      "courseDetail": "Introduction to Robotics",
+      "rating": 2,
+      "imagePath": "assets/images/nptel.jpg",
+      "showAddReviewButton": true
+  },
+  {
+      "courseName": "Udemy",
+      "courseDetail": "Artificial Intelligence",
+      "rating": 5,
+      "imagePath": "assets/images/udemy.jpg",
+      "showAddReviewButton": true
+  },
+  {
+      "courseName": "Google",
+      "courseDetail": "Data Visualisation Tools",
+      "rating": 1,
+      "imagePath": "assets/images/google.jpg",
+      "showAddReviewButton": true
+  },
+  {
+      "courseName": "NPTEL",
+      "courseDetail": "Machine Learning",
+      "rating": 3,
+      "imagePath": "assets/images/nptel.jpg",
+      "showAddReviewButton": false
+  },
+  {
+      "courseName": "Google",
+      "courseDetail": "Threat and Security",
+      "rating": 5,
+      "imagePath": "assets/images/google.jpg",
+      "showAddReviewButton": false
+  },
+  {
+      "courseName": "Udemy",
+      "courseDetail": "AI/ML",
+      "rating": 5,
+      "imagePath": "assets/images/udemy.jpg",
+      "showAddReviewButton": false
+  }
+]
